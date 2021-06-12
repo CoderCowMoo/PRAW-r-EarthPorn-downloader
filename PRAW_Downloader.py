@@ -17,4 +17,4 @@ for post in r.subreddit('EarthPorn').top(limit=1):  #Here change EarthPorn to th
 r = requests.get(url) # Get the image and assign it to r
 with open(file_name,"wb") as f: # Open a file with the name of it being the value of file_name
                                 # as a binary with write permissions.
-    f.write(r.content) # write the content of the image as binary into the file
+    f.write(r.content) # write the content of the image as binary into the file in working directory
