@@ -1,1 +1,3 @@
-Written in python for reddit using the PRAW. This script has a comment displaying where the variables should be changed for beginners. I was inspired to write this script because a few years ago, I was just starting out with programming and wanted to download reddit images and just did not understand anything. Thankfully, I never gave up and this is easy stuff for me now. Just keep trying and never give up and nothing is impossible. Future improvements would be to change the wallpaper as well.
+Written in python for reddit using the PRAW. This script has a comment displaying where the variables should be changed for beginners. Future improvements would be to change the wallpaper as well.
+
+Credit goes to u/lickmyspaghetti in https://www.reddit.com/r/learnpython/comments/5benxs/how_do_i_download_an_image_using_praw/. All I did was update his script and comment it.
